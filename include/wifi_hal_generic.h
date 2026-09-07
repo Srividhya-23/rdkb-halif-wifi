@@ -22,8 +22,6 @@
 
     What is new for 3.0.7
 
-      1. Added cli_capableNumSpatialStreams field to wifi_associated_dev3_t structure in wifi_hal_generic.h file.
-
     What is new for 3.0.6
 
       1. Added new security types wifi_security_key_type_saeext, wifi_security_key_type_sae_saeext
